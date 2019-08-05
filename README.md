@@ -6,3 +6,5 @@ The project has npm init, and has install and save these npm packages as followi
 * mongoose
 * cheerio
 * axios
+
+# Will scrape the NYTimes website
